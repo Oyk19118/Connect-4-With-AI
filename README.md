@@ -1,5 +1,5 @@
 # Connect 4 Game Project
-
+ 
 The Connect 4 Game is a two-player strategy game implemented in Python, using the pygame library to offer interaction. This allows a player to play against the AI opponent, whose move is decided with the help of the Minimax algorithm with Alpha-Beta Pruning.
 
 ## Features
